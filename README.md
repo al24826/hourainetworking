@@ -21,7 +21,7 @@ Some features may not be uniform across all platforms.
 |Feature|Steam|Discord|Direct UDP|Epic Games|
 |:------|:---:|:-----:|:--------:|:--------:|
 |Implemenation|✔️|✔️|Planned|Planned|
-|Lobbies|✔️|✔️|❌|?|
+|Lobbies|❌|❌|❌|❌
 |Matchmaking|✔️|✔️|❌|?|
 |Custom Metadata|✔️|✔️|?|?|
 |Host Migration|✔️|✔️|?|?|
